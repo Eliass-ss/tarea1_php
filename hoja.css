@@ -1,0 +1,39 @@
+h2 {
+    font-style: oblique;
+    width: 200px;
+    height: 1;
+    border: 1px solid black;
+    border-radius: 13px;
+    padding: 1px;
+    background-color: aliceblue;
+
+}
+#boton {
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 225, 206);
+    border-radius: 9px;
+    font-style: oblique;
+    font-weight: bold;
+}
+a {
+    color: rgb(9, 110, 0);
+    font-style: oblique;
+    font-size: 17px;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(215, 229, 241);
+}
+#entrada {
+    border-radius: 6px;
+    background-color: rgb(255, 224, 224);
+}
+#form {
+    border: 2px solid rgb(0, 0, 0);
+    width: 380px;
+    height: 130px;
+    margin: 40px;
+    padding: 17px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 35px;
+}
